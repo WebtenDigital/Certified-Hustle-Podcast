@@ -6,6 +6,7 @@
   "author": "Kyle Mathews <mathews.kyle@gmail.com>",
   "dependencies": {
     "@fontsource/pt-sans": "^4.5.0",
+    "@fontsource/source-code-pro": "^4.5.0",
     "@fontsource/source-sans-pro": "^4.5.0",
     "dotenv": "^10.0.0",
     "gatsby": "^3.13.1",
